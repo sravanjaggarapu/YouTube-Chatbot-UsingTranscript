@@ -24,5 +24,5 @@ This is a Streamlit app that allows users to input a YouTube video URL and ask q
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/sravanjaggarapu/YouTube-Chatbot-UsingTranscript.git
+   cd YouTube-Chatbot-UsingTranscript
